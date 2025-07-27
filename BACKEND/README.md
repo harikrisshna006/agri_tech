@@ -1,5 +1,3 @@
----
-
 ```markdown
 # Rover Control Server
 
@@ -99,7 +97,7 @@ This server acts as the central controller for handling requests between a mobil
 * JWT-based authentication
 * Admin dashboard for rover and sensor analytics
 
----
+
 
 ## 📬 Contact
 
